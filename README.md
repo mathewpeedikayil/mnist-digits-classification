@@ -1,5 +1,5 @@
-# MNIST Digits Classification 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣7️⃣8️⃣9️⃣
-This project utilises a neural network on the MNIST datset to classify handwritten digits.
+# MNIST Digits Classification 🔢
+This project utilises a dense neural network on the MNIST datset to classify handwritten digits.
 
 ## Program Execution
 ### Run it locally
